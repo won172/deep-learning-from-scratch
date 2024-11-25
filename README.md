@@ -2,7 +2,7 @@
 
 <a href="http://www.yes24.com/Product/Goods/34970929"><img src="https://github.com/WegraLee/deep-learning-from-scratch/blob/master/cover.jpeg" width="150" align=right></a>
 
-[미리보기](https://preview2.hanbit.co.kr/books/riaq/#p=1) | [알려진 오류(정오표)](http://www.hanbit.co.kr/store/books/look.php?p_code=B8475831198) | [본문 그림과 수식 이미지 모음](https://github.com/WegraLee/deep-learning-from-scratch/blob/master/equations_and_figures.zip)
+[미리보기](https://preview2.hanbit.co.kr/books/riaq/#p=1) | [알려진 오류(정오표)](http://www.hanbit.co.kr/store/books/look.php?p_code=B8475831198) | [본문 그림과 수식 이미지 모음](https://github.com/WegraLee/deep-learning-from-scratch/raw/refs/heads/master/equations_and_figures.zip)
 
 :red_circle: **[공지]** 종종 실습용 손글씨 데이터셋 다운로드 사이트( http://yann.lecun.com/exdb/mnist/ )가 연결되지 않습니다.
 그래서 예제 수행에 필요한 데이터셋 파일을 /dataset/ 디렉터리에 올려뒀습니다.
